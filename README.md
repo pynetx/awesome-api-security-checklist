@@ -8,7 +8,7 @@ A battle-tested, 50-point pre-flight security inspection matrix to detect critic
 [![Fulfillment](https://img.shields.io/badge/Kit%20Status-Instant%20Download-blue.svg)](#)
 
 > 🚀 **Need the complete interactive framework?**  
-> Get the [Full NullGate Security Audit Kit](https://gumroad.com/l/YOUR-GUMROAD-SLUG): Includes the **Excel Scoring Dashboard**, **1-Click Notion/Airtable Database**, all **50 Technical Markdown Cards**, and **SEV-1 Leaked Key Incident Runbooks**.
+> Get the [Full NullGate Security Audit Kit]([https://gumroad.com/l/YOUR-GUMROAD-SLUG](https://vatsyayan4.gumroad.com/l/wkkwf)): Includes the **Excel Scoring Dashboard**, **1-Click Notion/Airtable Database**, all **50 Technical Markdown Cards**, and **SEV-1 Leaked Key Incident Runbooks**.
 
 ---
 
@@ -64,7 +64,7 @@ If you want the entire pre-flight verification system ready to deploy in your wo
 | **Executive Sign-Off Template** | `.md` | 1-page formal launch approval template for stakeholders, enterprise clients, or board review. |
 | **Vulnerability Disclosure Pack** | `.txt` / `.md` | RFC 9116 compliant `security.txt` and `SECURITY.md` policies for public repos. |
 
-👉 **[Download the Full Kit on Gumroad ($49 Startup / $99 Agency License)](https://gumroad.com/l/YOUR-GUMROAD-SLUG)**
+👉 **[Download the Full Kit on Gumroad ($49 Startup / $99 Agency License)]([https://gumroad.com/l/YOUR-GUMROAD-SLUG](https://vatsyayan4.gumroad.com/l/wkkwf))**
 
 ---
 
